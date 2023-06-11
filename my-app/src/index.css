@@ -1,0 +1,275 @@
+.homepage {
+  align-items: center;
+  background-image: url(https://s3.bmp.ovh/imgs/2023/06/10/4dc62e54b20d5de5.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 125px;
+  height: 960px;
+  min-width: 1440px;
+  padding: 60px 80px;
+  position: relative;
+}
+
+.homepage .frame {
+  align-items: flex-start;
+  display: flex;
+  gap: 150px;
+  position: relative;
+  width: fit-content;
+}
+
+.homepage .navbar {
+  align-items: center;
+  display: flex;
+  gap: 70px;
+  position: relative;
+  width: fit-content;
+}
+
+.homepage .text-wrapper {
+  color: #ffffff;
+  font-family: "Philosopher-Regular";
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.homepage .div {
+  color: #ffffff;
+  font-family: "Philosopher-Regular";
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.homepage .text-wrapper2 {
+  color: #ffffff;
+  font-family: "Philosopher-Regular";
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.homepage .text-wrapper3 {
+  color: #ffffff;
+  font-family: "Philosopher-Regular";
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.homepage .text-wrapper4 {
+  color: #ffffff;
+  font-family: "Philosopher-Regular";
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.homepage .wallet {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 300px;
+}
+
+.homepage .connectwallet1 {
+  color: #ffffff;
+  font-family: "Philosopher-Regular";
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.homepage .div-wrapper {
+  align-items: flex-start;
+  background-color: #000000;
+  border: 2px solid;
+  border-color: #ffffff;
+  border-radius: 11px;
+  display: flex;
+  gap: 10px;
+  overflow: hidden;
+  padding: 13px 23px;
+  position: relative;
+  width: fit-content;
+}
+
+.homepage .text-wrapper5 {
+  color: #ffffff;
+  font-family: "Philosopher-Regular";
+  font-size: 24px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -2px;;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.homepage .frame-2 {
+  align-items: center;
+  display: flex;
+  gap: 91px;
+  height: 235px;
+  justify-content: center;
+  padding: 0px 83px;
+  position: relative;
+  width: 1280px;
+}
+
+.homepage .cave-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 128px;
+  padding: 10px 0px 10px 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.homepage .cave {
+  height: 79px; 
+  min-width: 296px;
+  position: relative;
+}
+
+.homepage .img-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 10px; 
+  position: relative;
+  width: 111px; ;
+}
+
+.homepage .img {
+  height: 100px;
+  margin-right: -10px;
+  min-width: 101px;
+  position: relative;
+}
+
+.homepage .factory-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column; 
+  gap: 10px; 
+  padding: 10px 10px 10px; ;
+  position: relative;
+  width: fit-content;
+}
+
+.homepage .factory {
+  height: 101px;
+  min-width: 447px;
+  position: relative;
+}
+
+.homepage .frame-3 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 33px;
+  height: 277px;
+  justify-content: flex-end;
+  padding: 41px 32px 32px; 
+  position: relative;
+  width: 1280px; ;
+}
+
+.homepage .innovating-the {
+  color: #ffffff;
+  font-family: "Philosopher-Regular";
+  font-size: 45px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.homepage .span {
+  color: #ffffff;
+  font-family: "Philosopher-Regular";
+  font-size: 45px;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.homepage .text-wrapper6 {
+  color: #ffffff;
+  font-family: "Philosopher-Italic";
+  font-size: 45px;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.homepage .frame-4 {
+  align-items: flex-end;
+  display: flex;
+  gap: 14px;
+  height: 44px;
+  justify-content: flex-end;
+  position: relative;
+  width: 1193px;
+  
+}
+
+.homepage .text-wrapper7 {
+  color: #ffffff;
+  font-family: "Philosopher-Regular";
+  font-size: 21px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.homepage .vector {
+  height: 41px;
+  min-width: 36px;
+  position: relative;
+}

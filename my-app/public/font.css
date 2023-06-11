@@ -1,0 +1,19 @@
+@font-face {
+    font-family: Philosopher-Bold;
+    src: url(./font/philosopher/Philosopher-Bold.ttf);
+}
+
+@font-face {
+    font-family: Philosopher-BoldItalic;
+    src: url(./font/philosopher/Philosopher-BoldItalic.ttf);
+}
+
+@font-face {
+    font-family: Philosopher-Italic;
+    src: url(./font/philosopher/Philosopher-Italic.ttf);
+}
+
+@font-face {
+    font-family: Philosopher-Regular;
+    src: url(./font/philosopher/Philosopher-Regular.ttf);
+}
